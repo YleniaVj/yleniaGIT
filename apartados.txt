@@ -3,6 +3,6 @@
 
 2. Flujo de trabajo básico
 
-3. Gestión de ramas
+3. Añadido punto 3 sobre gestión de ramas al fichero.
 
 4. Repositorios remotos
